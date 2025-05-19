@@ -5,7 +5,7 @@ The objective was to **design, implement, and secure** a simulated enterprise ne
 
 ---
 
-## 🛠️ Project Overview
+## 🛠️ Project Overview.
 
 This project simulates a real-world enterprise network setup, focusing on:
 
